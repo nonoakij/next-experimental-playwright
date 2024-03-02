@@ -13,3 +13,4 @@ pnpm run test:e2e
 - https://mswjs.io/docs/api/http/
 - https://nextjs.org/docs/app/building-your-application/testing/playwright
 - https://github.com/vercel/next.js/tree/canary/packages/next/src/experimental/testmode/playwright
+- https://nonoakij.com/posts/next-experimental-playwright/
