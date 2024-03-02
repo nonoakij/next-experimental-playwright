@@ -26,6 +26,7 @@ test.use({
   ],
 })
 
+// skipping because the following is not working properly
 test.skip("/product/boot", async ({ page, msw }) => {
   await page.goto("/product/boot")
 

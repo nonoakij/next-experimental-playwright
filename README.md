@@ -1,4 +1,4 @@
-# Next.js (AppRouter) + Playwright + MSW Example
+# Next.js (AppRouter) + Playwright ( + MSW ) Example
 
 This example shows how to configure Playwright to work with Next.js.
 
